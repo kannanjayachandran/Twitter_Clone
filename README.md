@@ -8,15 +8,15 @@ This is a full stack clone of twitter, built with NextJS, TailwindCSS, and Supab
 ## Features
 
 - [x] Identical UI to X(former Twitter)
-- [] Authentication
-- [] Tweeting
-- [] Replying
-- [] Retweeting
-- [] Liking
-- [] Following
-- [] Notifications
-- [] DMs
-- [] Search
+- [ ] Authentication
+- [ ] Tweeting
+- [ ] Replying
+- [ ] Retweeting
+- [ ] Liking
+- [ ] Following
+- [ ] Notifications
+- [ ] DMs
+- [ ] Search
 
 ## Stack used
 
